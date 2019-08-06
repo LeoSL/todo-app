@@ -1,5 +1,3 @@
-console.log('AVOHAI');
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { combineReducers } from 'redux';
